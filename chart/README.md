@@ -25,4 +25,5 @@ helm install dnation-ping dnationcloud/dnation-ping
 
 test test test test
 test test test
+test test
 
