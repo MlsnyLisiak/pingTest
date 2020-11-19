@@ -1,5 +1,5 @@
 charts:
 - name: chart
   repo:
-    git: dNationCloud/helm-hub
-    published: https://dnationcloud.github.io/helm-hub/
+    git: MlsnyLisiak/MlsnyLisiak.github.io
+    published: https://MlsnyLisiak.github.io
